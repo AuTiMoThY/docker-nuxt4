@@ -47,7 +47,7 @@ export default defineNuxtConfig({
 
     // 開發伺服器配置（設定顯示的 URL）
     devServer: {
-        url: "http://localhost:3001"
+        url: "http://localhost:8100"
     },
 
     // Vite 配置（Docker 環境中的 HMR 支援）
